@@ -154,6 +154,7 @@ Feedstock Maintainers
 
 * [@AlexanderHeidelbach](https://github.com/AlexanderHeidelbach/)
 * [@GiacomoXT](https://github.com/GiacomoXT/)
+* [@WolfgangWaltenberger](https://github.com/WolfgangWaltenberger/)
 * [@utk4r-sh](https://github.com/utk4r-sh/)
 * [@vvsagar](https://github.com/vvsagar/)
 
