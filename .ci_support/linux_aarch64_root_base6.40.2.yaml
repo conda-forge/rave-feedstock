@@ -15,6 +15,6 @@ docker_image:
 libboost_devel:
 - '1.88'
 root_base:
-- 6.40.0
+- 6.40.2
 target_platform:
 - linux-aarch64
