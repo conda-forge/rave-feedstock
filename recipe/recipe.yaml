@@ -47,10 +47,10 @@ requirements:
 
 tests:
   - script:
-    - rave_version
-    - kinematics01
-    - kinematics02
-    - kinematics03
+      - rave_version
+      - kinematics01
+      - kinematics02
+      - kinematics03
   - package_contents:
       bin:
         - kinematics01
